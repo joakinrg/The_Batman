@@ -13,7 +13,7 @@
 
 body {
   height: 100vh;
-  background-image: url(../img/FOTO7.jpg);
+  background-image: url(../img/FOTO1.jpg);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -183,7 +183,7 @@ a {
   transform: translateY(2px);
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 100%) {
   header {
     padding: 15px 40px;
   }
